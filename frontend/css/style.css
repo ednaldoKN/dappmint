@@ -200,9 +200,9 @@ section {
   margin-bottom: 40px;
 }
 
-#countdown{
+/*#countdown{
   display: block;
-}
+}*/
 
 .countdown {
   display: flex;
