@@ -200,7 +200,9 @@ section {
   margin-bottom: 40px;
 }
 
-
+#countdown{
+  display: block;
+}
 
 .countdown {
   display: flex;
